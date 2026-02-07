@@ -12,7 +12,7 @@ I specialize in complex cloud and AI solutions—from IaaS/PaaS/SaaS to LLMs and
 
 ## Experience
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20" height="20"/> Pre-Sales Cloud Architect @ Oracle
+### Pre-Sales Cloud Architect @ Oracle
 **July 2022 – Present** | Málaga, Spain
 
 - Guiding clients through cloud adoption and AI capabilities, including LLMs and generative AI
@@ -20,7 +20,7 @@ I specialize in complex cloud and AI solutions—from IaaS/PaaS/SaaS to LLMs and
 - Positioning AI-enhanced cloud platforms to drive business transformation
 - Building trust through AI governance and responsible implementation guidance
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="20" height="20"/> Cloud Platform Team Lead @ Everli
+### Cloud Platform Team Lead @ Everli
 **January 2022 – July 2022** | Remote
 
 - Defined migration strategy to AWS
@@ -28,7 +28,7 @@ I specialize in complex cloud and AI solutions—from IaaS/PaaS/SaaS to LLMs and
 - Created reusable infrastructure building blocks with AWS CDK
 - Implemented APM platform with NewRelic
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="20" height="20"/> Cloud Platform Team Lead @ Soisy
+### Cloud Platform Team Lead @ Soisy
 **February 2021 – January 2022** | Remote
 
 - Built reusable infrastructure components with AWS CDK
